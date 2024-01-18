@@ -1,0 +1,2 @@
+# WifiStickBootUsb
+WifiStick410_AutoSwitchUsbAtBoot
